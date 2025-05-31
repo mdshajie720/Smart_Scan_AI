@@ -1,0 +1,1 @@
+C:\vs code\FoodScanAI-master\build\app\intermediates\cxx\Debug\12k422f1\obj\arm64-v8a

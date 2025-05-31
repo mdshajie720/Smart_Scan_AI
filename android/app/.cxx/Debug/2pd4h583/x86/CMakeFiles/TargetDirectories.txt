@@ -1,0 +1,2 @@
+C:/vs code/Smart_Scan_AI-master/android/app/.cxx/Debug/2pd4h583/x86/CMakeFiles/edit_cache.dir
+C:/vs code/Smart_Scan_AI-master/android/app/.cxx/Debug/2pd4h583/x86/CMakeFiles/rebuild_cache.dir

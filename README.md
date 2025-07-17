@@ -8,7 +8,30 @@ A Flutter application that helps users track their nutritional intake by analyzi
 - 📊 Track daily nutrient intake with detailed breakdowns
 - 📅 View historical food consumption data
 - 📈 Visual representations of macronutrient distribution
-- ⚡ Real-time nutritional insights and recommendations
+- ⚡ Real-time nutritional insights and recommendationshots
+  <h2>Image Gallery</h2>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/mdshajie720/Smart_Scan_AI/blob/main/Assets/Screenshot%202025-06-11%20201947.png" width="200"/></td>
+    <td><img src="https://github.com/mdshajie720/Smart_Scan_AI/blob/main/Assets/Screenshot%202025-06-11%20202042.png" width="200"/></td>
+    <td><img src="https://github.com/mdshajie720/Smart_Scan_AI/blob/main/Assets/Screenshot%202025-06-11%20202124.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/mdshajie720/Smart_Scan_AI/blob/main/Assets/Screenshot%202025-06-11%20202141.png" width="200"/></td>
+    <td><img src="https://github.com/mdshajie720/Smart_Scan_AI/blob/main/Assets/Screenshot%202025-06-11%20202205.png" width="200"/></td>
+    <td><img src="https://github.com/mdshajie720/Smart_Scan_AI/blob/main/Assets/Screenshot%202025-06-11%20202317.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/mdshajie720/Smart_Scan_AI/blob/main/Assets/Screenshot%202025-06-11%20202409.png"width="200"/></td>
+    <td><img src="https://github.com/mdshajie720/Smart_Scan_AI/blob/main/Assets/Screenshot%202025-06-11%20202431.png" width="200"/></td>
+    <td><img src="https://github.com/mdshajie720/Smart_Scan_AI/blob/main/Assets/Screenshot%202025-06-11%20202455.png" width="200"/></td>
+    <td><img src="https://github.com/mdshajie720/Smart_Scan_AI/blob/main/Assets/Screenshot%202025-06-11%20202702.png" width="200"/></td>
+  </tr>
+</table>
+
+
+  ## ScreenS
 
 ### Prerequisites
 - Flutter SDK (>=3.4.3)

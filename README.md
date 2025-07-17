@@ -31,7 +31,6 @@ A Flutter application that helps users track their nutritional intake by analyzi
 </table>
 
 
-  ## ScreenS
 
 ### Prerequisites
 - Flutter SDK (>=3.4.3)
